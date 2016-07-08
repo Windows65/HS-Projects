@@ -1,0 +1,5 @@
+password
+123456
+12345678
+admin
+C:\Users\Ben East1\Desktop\Advanced Penetration Toolkit By Paradox Technology\Advanced Build\lib\BruteForce\default.txt
